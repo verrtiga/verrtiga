@@ -14,7 +14,7 @@ I am beginner Fronted Developer from Moscow, Russia. I am studying at HTML Acade
 ![BEM](https://img.shields.io/badge/-BEM-24292f?style=for-the-badge&logo=BEM)
 
 ## Certificates
-
+![Proff-html](https://github.com/verrtiga/verrtiga/blob/main/assets/Proff.Website%20Coding-1.png)
 
 
 ## Follow me
