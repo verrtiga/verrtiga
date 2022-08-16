@@ -3,6 +3,10 @@
 
 I am beginner Fronted Developer from Moscow, Russia. I am studying at HTML Academy and Russian State Social University at the Faculty of Information Systems. 
 
+
+## Certificates
+<img src="https://github.com/verrtiga/verrtiga/blob/main/assets/Proff.Website%20Coding-1.png" width="300px" alt="Proff-code">
+
 ## Languages and tools
 
 ![HTML](https://img.shields.io/badge/-HTML-24292f?style=for-the-badge&logo=HTML5)
@@ -12,10 +16,6 @@ I am beginner Fronted Developer from Moscow, Russia. I am studying at HTML Acade
 ![Node.js](https://img.shields.io/badge/-Node.js-24292f?style=for-the-badge&logo=Node.js)
 ![Gulp](https://img.shields.io/badge/-Gulp-F2F2F2?style=for-the-badge&logo=Gulp)
 ![BEM](https://img.shields.io/badge/-BEM-24292f?style=for-the-badge&logo=BEM)
-
-## Certificates
-![Proff-html](https://github.com/verrtiga/verrtiga/blob/main/assets/Proff.Website%20Coding-1.png)
-
 
 ## Follow me
 [![Instagram](https://img.shields.io/badge/-Instagram-24292f?style=for-the-badge&logo=Instagram)](https://www.instagram.com/verrtiga/)
