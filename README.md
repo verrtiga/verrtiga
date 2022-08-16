@@ -18,3 +18,7 @@ I am beginner Fronted Developer from Moscow, Russia. I am studying at HTML Acade
 
 
 ## Follow me
+[![Instagram](https://img.shields.io/badge/-Instagram-333333?style=for-the-badge&logo=Instagram)](https://www.instagram.com/verrtiga/)
+[![VKontakte](https://img.shields.io/badge/-VKontakte-333333?style=for-the-badge&logo=VK)](https://vk.com/vertiga01)
+[![Telegram](https://img.shields.io/badge/-Telegram-333333?style=for-the-badge&logo=Telegram)](https://t.me/verrtiga)
+
