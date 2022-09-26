@@ -6,11 +6,11 @@ I am beginner Fronted Developer from Moscow, Russia. I am studying at HTML Acade
 
 ## :wrench: Skills
 
-* :heavy_check_mark: Search and analysis of information.
-* :heavy_check_mark: Planning skills.
-* :heavy_check_mark: Ability to ask questions.
-* :heavy_check_mark: Working with feedback.
-* :heavy_check_mark: Independence.
+* Search and analysis of information.
+* Planning skills.
+* Ability to ask questions.
+* Working with feedback.
+* Independence.
 
 ## :link: Certificates
 <img src="https://github.com/verrtiga/verrtiga/blob/main/assets/Proff.Website%20Coding-1.png" width="300px" alt="Proff-code">
