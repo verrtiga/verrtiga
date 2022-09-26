@@ -4,6 +4,14 @@
 I am beginner Fronted Developer from Moscow, Russia. I am studying at HTML Academy and Russian State Social University at the Faculty of Information Systems. 
 
 
+## Skills
+
+- Search and analysis of information.
+- Planning skills.
+- Ability to ask questions.
+- Working with feedback.
+- Independence.
+
 ## Certificates
 <img src="https://github.com/verrtiga/verrtiga/blob/main/assets/Proff.Website%20Coding-1.png" width="300px" alt="Proff-code">
 
