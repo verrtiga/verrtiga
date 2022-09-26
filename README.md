@@ -1,5 +1,5 @@
 
-## :pencil: About me
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=About+me...)](https://git.io/typing-svg)
 
 I am beginner Fronted Developer from Moscow, Russia. I am studying at HTML Academy and Russian State Social University at the Faculty of Information Systems. 
 
