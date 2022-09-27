@@ -13,8 +13,9 @@ I am beginner Fronted Developer from Moscow, Russia. I am studying at HTML Acade
 * Independence.
 
 ## :link: Certificates
-<img src="https://github.com/verrtiga/verrtiga/blob/main/assets/Proff.Website%20Coding-1.png" width="300px" alt="Proff-code">
-<img src="assets/Adaptive HTML CSS EN-1.png" width="300px" alt="adaptive-code">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=verrtiga&repo=Certificates)](https://github.com/verrtiga/Certificates)
+
 
 ## :open_file_folder: Languages and tools
 
