@@ -27,7 +27,8 @@ I am beginner Fronted Developer from Moscow, Russia. I am studying at HTML Acade
 ![Gulp](https://img.shields.io/badge/-Gulp-F2F2F2?style=for-the-badge&logo=Gulp)
 ![BEM](https://img.shields.io/badge/-BEM-24292f?style=for-the-badge&logo=BEM)
 ![NPM](https://img.shields.io/badge/-NPM-F2F2F2?style=for-the-badge&logo=NPM)
-![NPM](https://img.shields.io/badge/-JavaScript-F2F2F2?style=for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F2F2F2?style=for-the-badge&logo=JavaScript)
+![JSON](https://img.shields.io/badge/-JSON-24292f?style=for-the-badge&logo=JSON)
 
 ## :mag: Follow me
 [![Instagram](https://img.shields.io/badge/-Instagram-24292f?style=for-the-badge&logo=Instagram)](https://www.instagram.com/verrtiga/)
