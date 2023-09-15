@@ -2,7 +2,7 @@
 ## :pencil: About me
 
 * I am Fronted Developer from Moscow, Russia.
-* Finished: HTML Academy | Russian State Social University - Faculty of Information Systems 
+* **Finished:** HTML Academy | Russian State Social University - Faculty of Information Systems 
 * **JS | HTML | CSS**
 
 
