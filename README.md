@@ -1,7 +1,9 @@
 
 ## :pencil: About me
 
-I am beginner Fronted Developer from Moscow, Russia. I am studying at HTML Academy and Russian State Social University at the Faculty of Information Systems. 
+I am Fronted Developer from Moscow, Russia.
+Finished: HTML Academy | Russian State Social University - Faculty of Information Systems 
+JS | HTML | CSS
 
 
 ## :wrench: Skills
