@@ -33,8 +33,6 @@
 ![JSON](https://img.shields.io/badge/-JSON-24292f?style=for-the-badge&logo=JSON)
 
 ## :mag: Follow me
-[![Instagram](https://img.shields.io/badge/-Instagram-24292f?style=for-the-badge&logo=Instagram)](https://www.instagram.com/verrtiga/)
-[![VKontakte](https://img.shields.io/badge/-VKontakte-24292f?style=for-the-badge&logo=VK)](https://vk.com/vertiga01)
 [![Telegram](https://img.shields.io/badge/-Telegram-24292f?style=for-the-badge&logo=Telegram)](https://t.me/verrtiga)
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
