@@ -1,40 +1,45 @@
-
-<h3 align="center">QA / Frontend Developer</h3>
+<h1 align="center">Роман Вертегел</h1>
+<h3 align="center">QA Engineer · Frontend Developer · AI Automation</h3>
 
 <p align="center">
-Работаю с реальными веб-системами, тестированием, производительностью, API и frontend-логикой.
+Работаю с реальными веб-системами — тестирование, API, производительность, frontend и AI-инструменты.
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/QA-0A0A0A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Frontend-0A0A0A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/API-0A0A0A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Automation-0A0A0A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI-0A0A0A?style=for-the-badge" />
+  <a href="https://t.me/verrtiga">
+    <img src="https://img.shields.io/badge/Telegram-@verrtiga-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/QA-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-0A0A0A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-0A0A0A?style=for-the-badge" />
 </p>
 
 ---
 
 ## Обо мне
 
-QA / frontend, работаю с реальными аналитическими системами и веб-интерфейсами.
+QA / frontend-ориентированный специалист, работаю с реальными аналитическими системами и веб-интерфейсами.
 
-Основной фокус сейчас:
+Основной фокус:
 - тестирование сложной логики интерфейсов
 - анализ API и нестабильного поведения системы
 - нагрузочное тестирование
 - улучшение frontend-части
 - использование AI в разработке и тестировании
 
-Мне интересно не только найти баг, но и понять, почему система ведет себя именно так.
+Мне интересно не только найти баг, но и понять, почему система ведёт себя именно так.
 
 ---
 
 ## Основные направления
 
 ### Тестирование
-- ручное тестирование
-- исследовательское тестирование
+- ручное и исследовательское тестирование
 - воспроизведение сложных и нестабильных багов
 - оформление баг-репортов
 - ретест исправлений
@@ -54,18 +59,13 @@ QA / frontend, работаю с реальными аналитическими
 - поиск узких мест при больших выборках данных
 
 ### Frontend
-- HTML
-- CSS / SCSS
-- JavaScript
-- BEM
-- адаптивная верстка
+- HTML / CSS / SCSS / JavaScript
+- BEM, адаптивная вёрстка
 - работа с UI-состояниями
 - улучшение UX через тестирование
 
 ### AI и автоматизация
-- Claude Code
-- Codex
-- агенты и AI-инструменты в разработке
+- Claude Code, агенты, multi-agent workflows
 - prompt engineering
 - использование LLM для ускорения кода, тестирования и анализа
 
@@ -106,17 +106,6 @@ QA / frontend, работаю с реальными аналитическими
 
 ---
 
-## Чем я занимаюсь на практике
-
-- нахожу реальные баги в продовых и тестовых системах
-- анализирую ответы API и расхождения данных
-- проверяю систему под нагрузкой
-- работаю с логикой фильтров и сложными сценариями
-- участвую в доработке frontend-части
-- использую AI для ускорения работы с кодом и тестированием
-
----
-
 ## Подход к работе
 
 - сначала понять систему, потом менять
@@ -127,5 +116,10 @@ QA / frontend, работаю с реальными аналитическими
 
 ---
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=verrtiga&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verrtiga&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+</p>
