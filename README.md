@@ -1,5 +1,5 @@
-<h1 align="center">Роман Вертегел</h1>
-<h3 align="center">QA / Frontend-oriented специалист</h3>
+
+<h3 align="center">QA / Frontend Developer</h3>
 
 <p align="center">
 Работаю с реальными веб-системами, тестированием, производительностью, API и frontend-логикой.
